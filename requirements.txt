@@ -1,0 +1,10 @@
+quart
+motor
+pytz
+aiohttp
+aiohttp-retry
+quart-cors
+numpy
+scipy
+apscheduler
+aiocron
